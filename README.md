@@ -7,7 +7,7 @@ Conference poster for **BounceCoach: Real-Time Basketball Dribbling Training wit
 | | |
 |---|---|
 | Live page | https://zryiiii-web.github.io/BounceCoach-Poster/ |
-| PDF | [publications/IEEE_VR_2026_Poster.pdf](publications/IEEE_VR_2026_Poster.pdf) |
+| PDF | [publications/IEEE_VR_2026_Poster.pdf](https://zryiiii-web.github.io/BounceCoach-Poster/publications/IEEE_VR_2026_Poster.pdf) |
 | Paper (IEEE CSDL) | https://www.computer.org/csdl/proceedings-article/vrw/2026/052900b168/2gdpKxrUB2w |
 
 ## About
